@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Introduction to Deep Learning for Image Recognition (MNIST Dataset)
 
 This repo accompanies the *Introduction to Deep Learning for Image Recognition* to explain the core concepts of deep learning with emphasis on classifying images as the application. `Python` is used
+=======
+# Introduction to Deep Learning for Image Recognition
+
+This notebook accompanies the *Introduction to Deep Learning for Image Recognition* to explain the core concepts of deep learning with emphasis on classifying images as the application. `Python` 
+>>>>>>> 2cd6031812ef5103d9face5f89c9de2b26bcfe91
  
 ## Overview
 
@@ -11,6 +17,7 @@ The following topics are covered
 3. Building blocks of Neural Networks (Neuron, Activation Function, Backpropagation Algorithm)
 4. Introduction to the problem : MNIST dataset
 5. Building neural network from scratch
+<<<<<<< HEAD
 5. Introduction to `keras`
 6. Multi-layer perceptron
 7. Convolutional Neural Network
@@ -25,3 +32,9 @@ Image augmentation, is increasing the size of the given dataset by rotating the 
 ## Slides
 
 The slides used are available [here](https://speakerdeck.com/bargava/introduction-to-deep-learning-for-image-processing)
+=======
+6. Introduction to `keras`
+7. Multi-layer perceptron
+8. Convolutional Neural Network
+
+>>>>>>> 2cd6031812ef5103d9face5f89c9de2b26bcfe91
